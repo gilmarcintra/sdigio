@@ -1,0 +1,21 @@
+#menu{
+    width: 540px;
+    height: 140px;
+    background-color: #1C2147;
+    
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+
+#app{
+  margin: 0% auto;
+}
+
+::-webkit-scrollbar{
+    width:20px;
+  } 
+  
+  ::-webkit-scrollbar-thumb{
+    background-color:#232D5E;
+  }
